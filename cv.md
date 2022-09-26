@@ -23,7 +23,7 @@ My strong point is the desire to learn something new. I am convinced that the ab
 ## Code example:
 ```
 function multiply(a, b){
-return a * b
+  return a * b
 }
 ```
 
