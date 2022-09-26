@@ -21,9 +21,9 @@ My strong point is the desire to learn something new. I am convinced that the ab
 * Adobe Photoshop
 
 ## Code example:
-> function multiply(a, b){
- return a * b
-}
+> function multiply(a, b){  
+ return a * b  
+}  
 
 ## Education:
 * Moscow University for Industry and Finance (MUIF), Moscow
