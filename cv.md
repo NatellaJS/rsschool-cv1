@@ -31,11 +31,11 @@ function multiply(a, b){
 * Moscow University for Industry and Finance (MUIF), Moscow
 "Project management"
 * Courses
-  + Hexlet - "Основы языка Python"
-  + Stepik - "Основы HTML и CSS"
-  + Netology - "Основы верстки сайта"
-  + RS School – "JavaScript\Front-end. Stage 1" (in process)
+  + Hexlet - "Python Language Basics"
+  + Stepik - "HTML and CSS Basics"
+  + Netology - "Basics of site layout"
+  + RS School - "JavaScript\Front-end. Stage 1" (in process)
 
   ## Languages:
 * Russian - native speaker
-* English – B1
+* English - B1
