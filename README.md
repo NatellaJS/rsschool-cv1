@@ -1,1 +1,1 @@
-https://natellaJS.github.io/rsschool-cv/
+https://natellaJS.github.io/rsschool-cv/cv
